@@ -14,7 +14,7 @@ title_separator          : "-"
 name                     : &name "Bertrand Kwibuka"
 description              : &description "personal description"
 url                      : https://beekaykoozie.github.io  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/research" # the subpath of your site, e.g. "/blog"
+baseurl                  : " " # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/GaelKBertrand/beekaykoozie.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -28,7 +28,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Kigali, Rwanda"
   employer         : "Red Brick University"
-  uri              : # URL
+  uri              : "https://mimperio.tech"
   email            : "boss@mimperio.tech"
 
   # Academic websites
