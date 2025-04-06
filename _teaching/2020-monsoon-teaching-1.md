@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "Undergraduate course teaching assistant"
+permalink: /teaching/2020-fall-teaching-1
+venue: "Ashoka University, Environmental Sciences and Computer Science Department"
 date: 2014-01-01
 location: "City, Country"
 ---
